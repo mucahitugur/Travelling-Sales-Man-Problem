@@ -1,5 +1,5 @@
 /* This program calculates minimum distance of Migros Car
-@author Mucahit Ugur 2021719246
+@author Mucahit Ugur 
 @since date 19.04.2022
  */
 
